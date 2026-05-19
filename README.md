@@ -1,0 +1,2 @@
+# myscicalc
+my first git 
